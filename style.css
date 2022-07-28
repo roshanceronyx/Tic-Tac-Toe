@@ -1,0 +1,32 @@
+body {
+	margin: 0 auto;
+	font-family: Arial;
+}
+input::-moz-focus-inner { 
+  border: 0; 
+}
+a {
+   outline: 0;
+}
+.submit-button {
+	margin-top: 20px;
+	width: 280px;
+}
+.game-area {
+	margin:0 auto;
+	text-align: center;
+	padding-top: 20px; 
+}
+.game-board {
+	margin-top: 100px;
+	padding: 50px;
+}
+.grid-box{
+	font-size: 40px;
+	padding: 15px 25px;
+	width: 60px;
+	height: 60px;
+	margin:0px;
+	background-color: #fffefe;
+	outline: none;
+}
